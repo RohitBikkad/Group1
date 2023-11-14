@@ -60,14 +60,6 @@ public class ProductService {
 		
 		
 	}
-//	public Employee deleteEmployee(Long id) {
-//		Employee employee = getEmployee(id);
-//		if(employee!=null) {
-//			empRepo.delete(employee);
-//			return employee;
-//		}
-//		return null;
-//	}
-	
+
 
 }
